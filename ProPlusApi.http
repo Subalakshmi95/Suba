@@ -1,0 +1,6 @@
+@ProPlusApi_HostAddress = http://localhost:5226
+
+GET {{ProPlusApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
